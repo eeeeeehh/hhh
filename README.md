@@ -17,7 +17,7 @@ p {
     text-align: center; 
     color: antiquewhite;
     margin-top:200px;
-    font-size: 40px; 
+    font-size: 50px; 
     font-weight: normal;
     font-family: fantasy;
 
